@@ -1,4 +1,4 @@
-# AuditFlow AI
+# PolicyCheck-AI
 
 An enterprise AI compliance and audit assistant that combines document retrieval, LangGraph-based agent orchestration, deterministic confidence evaluation, human review, and evidence-backed audit reports.
 
