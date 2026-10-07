@@ -1,0 +1,12 @@
+Access Control Policy
+Version: 1.0.0
+Classification: Company Policy
+
+1. Password Requirements
+All users must configure complex passwords with at least 12 characters, containing numbers and special characters.
+
+2. Multi-Factor Authentication
+MFA (Multi-Factor Authentication) is strictly required for all administrative accounts accessing production systems.
+
+3. Session Timeouts
+Inactive sessions will automatically terminate after 15 minutes of inactivity.
